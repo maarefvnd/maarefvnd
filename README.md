@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masin</h1>
-<h3 align="center">A person who values creativity, learning & obsession</h3>
+<h3 align="center">A Person who values Creativity, Learning & Obsession🤏</h3>
 
 ---
 ## 👋 About Me
@@ -15,7 +15,7 @@
 
 ### 🚀 Languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,python,go,docker,kubernetes,jenkins,terraform,ansible)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,python,go,c++,docker,kubernetes,jenkins,terraform,ansible,grafana)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries :
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,sass,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,qt,seaborn,materialui)](https://skillicons.dev)
