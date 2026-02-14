@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masin</h1>
 <h3 align="center">A person who values creativity, learning & obsession</h3>
----
 
+---
 ## 👋 About Me
 
 - 🎓 Computer Engineering Student At University Of Tehran 
