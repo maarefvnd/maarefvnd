@@ -3,7 +3,7 @@
 
 ### 🚀 Languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=html,linux,git,github,python,go,figma,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,python,go,docker,kubernetes,jenkins)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries :
 [![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,tailwind,bootstrap,sass,materialui)](https://skillicons.dev)
