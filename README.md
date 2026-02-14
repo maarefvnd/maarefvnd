@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Masin</h1>
-<h3 align="center">DevOps & Python developer who values creativity, independence & Automation</h3>
+<h3 align="center">DevOps Eng & Python Dev who values creativity, independence & Automation</h3>
 
 ### 🚀 Languages and tools :
 
