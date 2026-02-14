@@ -15,7 +15,7 @@
 
 ### 🚀 Languages and tools :
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,python,go,c++,docker,kubernetes,jenkins,terraform,ansible,grafana)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,python,go,cpp,docker,kubernetes,jenkins,terraform,ansible,grafana,vim,vscode,atom,nginx,pycharm,powershell,)](https://skillicons.dev)
 
 ### 🧰 Frameworks and Libraries :
-[![My Skills](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,qt,seaborn,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,pandas,matplotlib,qt,seaborn,materialui)](https://skillicons.dev)
