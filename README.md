@@ -5,10 +5,10 @@
 ## 👋 About Me
 
 - 🎓 Computer Engineering Student At University Of Tehran 
-- 🧠 Focused on DevOps, Machine Learning, and MlOps  
-- 💡 Exploring model training, CI/CD , data preprocessing, and Python-based ML frameworks  
+- 🧠 Focused on DevOps, Backend, and MlOps  
+- 💡 Exploring Backend Concepts, CI/CD , data preprocessing, and Python-based ML frameworks 
 - 💻 Passionate about building projects, learning new technologies, and improving my skills
-- 🤖 Interested in Artificial Intelligence & DevOps
+- 🤖 Interested in Backend, Artificial Intelligence & DevOps
 
 ---
 
